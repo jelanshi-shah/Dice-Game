@@ -1,10 +1,4 @@
-import React from 'react'
 import styled from 'styled-components'
-// function TotalScore() {
-//   return (
-//     <div>TotalScore</div>
-//   )
-// }
 
 const TotalScore = ({score}) =>{
     return(
@@ -16,6 +10,7 @@ const TotalScore = ({score}) =>{
         </>
     )
 }
+
 export default TotalScore
 
 const ScoreContainer = styled.div`

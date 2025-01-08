@@ -1,6 +1,5 @@
 import { useState } from "react";
 import StartGame from "./Components/StartGame";
-import styled from "styled-components";
 import Gameplay from "./Components/GamePlay";
 
 function App() {
